@@ -1117,6 +1117,7 @@
     "melee_allowed": true,
     "unarmed_allowed": true,
     "crit_ok": true,
+    "stunned_target": true,
     "down_dur": 1,
     "attack_vectors": [ "THROW" ]
   },
